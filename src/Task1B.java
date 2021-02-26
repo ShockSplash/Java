@@ -1,4 +1,4 @@
-public class FirstTaskB {
+public class Task1B {
     public static void main(String[] args) {
         double x = -5;
         double y;

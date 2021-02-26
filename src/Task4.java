@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class FourTask {
+public class Task4 {
     public static void main(String[] args) {
         System.out.println("Введите число");
         Scanner scan = new Scanner(System.in);
